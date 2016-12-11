@@ -13,6 +13,7 @@ import re
 import sys
 import os
 import pipes
+import platform
 
 class FFProbe:
 	"""
